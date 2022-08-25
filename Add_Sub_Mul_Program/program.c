@@ -13,5 +13,6 @@ printf("\nSubstraction of %d - %d",num1,num2);
 printf(" = %d",(num1-num2));
 printf("\nDivision of  %d / %d",num1,num2);
 printf(" = %d",(num1/num2 ));
+printf(" = %d",(num1/num2 )); 
 return 0;
 }
